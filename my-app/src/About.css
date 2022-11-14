@@ -1,0 +1,11 @@
+.about {
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: cover;
+  color: black;
+  background-image: url("https://img.freepik.com/free-vector/clean-medical-background_53876-97927.jpg?w=826&t=st=1666847870~exp=1666848470~hmac=76b6852a7cacc7a6b0702321ab6fe61b8c304d6078a3fa537098877ed18d115e");
+}
+h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
